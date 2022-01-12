@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Udoekpo Stephen @Saxxone
 - 👀 I’m interested in building web based solutions using technology
-- 💞️ I’m looking to collaborate on Vue JS projects
+- 💞️ I’m looking to collaborate on Vue JS/Nuxt JS projects
 - 📫 Reach me on twitter @saxxone
 
 <!---
